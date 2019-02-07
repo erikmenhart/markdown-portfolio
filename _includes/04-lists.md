@@ -1,4 +1,4 @@
 #My favourite things
 
--sports
--friends
+- sports
+- friends
