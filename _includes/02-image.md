@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of CM97](https://www.google.com/imgres?imgurl=https%3A%2F%2Fnhl.bamcontent.com%2Fimages%2Fphotos%2F290299080%2F1024x576%2Fcut.jpg&imgrefurl=https%3A%2F%2Fwww.nhl.com%2Fnews%2Fconnor-mcdavid-signs-extension-with-edmonton%2Fc-290298656&docid=PyIPQy9KgUWfbM&tbnid=OiFFc4oiSwS_dM%3A&vet=10ahUKEwjo1bzoq6rgAhUI5IMKHfshAGgQMwhvKAYwBg..i&w=1024&h=576&safe=strict&bih=913&biw=1280&q=connor%20mcdavid&ved=0ahUKEwjo1bzoq6rgAhUI5IMKHfshAGgQMwhvKAYwBg&iact=mrc&uact=8)
